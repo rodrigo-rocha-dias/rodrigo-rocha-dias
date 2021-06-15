@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou o Rodrigo Dias @rodrigo-rocha-dias
 - 👀 Eu estou interessado em automação de teste e teste de performance
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 No momento estou aprendendo automação em Cypress com JavaScript e Testes de Performance com JMeter e BlazeMeter
+- 💞️ Estou procurando em colaborar com o que tenho aprendido com Cypress e JMeter
+- 📫 Como chegar até mim: rodrigo.rocha.dias@hotmail.com 
 
 <!---
 rodrigo-rocha-dias/rodrigo-rocha-dias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
