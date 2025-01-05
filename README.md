@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Rodrigo Dias @rodrigo-rocha-dias
 - 👀 Eu estou interessado em automação de teste e teste de performance
-- 🌱 No momento estou aprendendo automação em Cypress com JavaScript e Testes de Performance com JMeter e BlazeMeter
+- 🌱 No momento estou na automação em Cypress com JavaScript Playwright com TypeScript/JavaScript/Python e Testes de Performance com K6/JMeter/BlazeMeter
 - 💞️ Estou procurando em colaborar com o que tenho aprendido com Cypress e JMeter
 - 📫 Como chegar até mim: rodrigo.rocha.dias@hotmail.com 
 
