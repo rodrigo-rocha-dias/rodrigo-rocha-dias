@@ -2,7 +2,7 @@
 
 ### 👀 Sobre Mim
 
-Eu sou um entusiasta de automação de testes, apaixonado por garantir a qualidade e a eficiência dos sistemas através de testes robustos. Tenho experiência em automação de testes para APIs, web, mobile e testes de performance.
+Eu sou um entusiasta de automação de testes, apaixonado por garantir a qualidade e a eficiência dos sistemas através de testes robustos. Tenho experiência em automação de testes para APIs, web, mobile e testes não fuincionais.
 
 ### 🚀 Habilidades e Tecnologias
 
@@ -10,7 +10,7 @@ Eu sou um entusiasta de automação de testes, apaixonado por garantir a qualida
 - - **Api:** Cypress com JavaScript
   - **Web:** Cypress com JavaScript, Playwright com TypeScript/JavaScript/Python
   - **Mobile:** Robot Framework Python e WebdriverIo com Appium
-- **Testes de Performance:** K6, JMeter, BlazeMeter
+- **Testes não fuincionais:** K6, JMeter, BlazeMeter
 - **Outras Ferramentas:** Jenkins, Github Actions, Docker
 
 ### 🌱 Atualmente Aprendendo
