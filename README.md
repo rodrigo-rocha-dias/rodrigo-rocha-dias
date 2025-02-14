@@ -9,8 +9,8 @@ Eu sou um entusiasta de automação de testes, apaixonado por garantir a qualida
 - **Automação de Testes:**
 - - **Api:** Cypress com JavaScript
   - **Web:** Cypress com JavaScript, Playwright com TypeScript/JavaScript/Python
-  - **Mobile:** Robot Framework Python e WebdriverIo com Appium
-- **Testes não funcionais:** K6, JMeter, BlazeMeter
+  - **Mobile:** Robot Framework com Python e WebdriverIo com JavaScript
+  - **Testes não funcionais:** K6, JMeter, BlazeMeter
 - **Outras Ferramentas:** Jenkins, Github Actions, Docker
 
 ### 🌱 Atualmente Aprendendo
@@ -19,7 +19,7 @@ No momento, estou aprofundando meus conhecimentos em automação com Cypress e P
 
 ### 💞️ Colaborações
 
-Estou sempre em busca de colaborar e compartilhar o que tenho aprendido. Se você está interessado em automação com Cypress ou JMeter, vamos conversar!
+Estou sempre em busca de colaborar e compartilhar o que tenho aprendido. Se você está interessado em automação, vamos conversar!
 
 ### 📫 Como Chegar Até Mim
 
