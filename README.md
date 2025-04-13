@@ -7,10 +7,10 @@ Eu sou um entusiasta de automação de testes, apaixonado por garantir a qualida
 ### 🚀 Habilidades e Tecnologias
 
 - **Automação de Testes:**
-- - **Api:** Cypress com JavaScript
+- - **Api:** Cypress/Playwright com JavaScript
   - **Web:** Cypress com JavaScript, Playwright com TypeScript/JavaScript/Python
   - **Mobile:** Robot Framework com Python e WebdriverIo com JavaScript
-  - **Testes não funcionais:** K6, JMeter, BlazeMeter
+  - **K6, JMeter, BlazeMeter** 
 - **Outras Ferramentas:** Jenkins, Github Actions, Docker
 
 ### 🌱 Atualmente Aprendendo
